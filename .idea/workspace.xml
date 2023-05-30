@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PyramidClasses.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_1/ProblemStatement_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_1/ProblemStatement_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_1/PyramidClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/ArcLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/Class Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/Driving.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/RandomNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/Walking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/Welcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_2/WelcomingUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +20,15 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="ManyamSanjayKumarReddy &lt;entrepreneur.sanju@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QUqZCXuiGMAdgM4s03Tk42fbSF" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -67,6 +58,18 @@
       <option name="presentableId" value="Default" />
       <updated>1685418562247</updated>
     </task>
+    <task id="LOCAL-00001" summary="Technical Training Day 2 Update">
+      <created>1685438434039</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1685438434039</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Technical Training Day 2 Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Technical Training Day 2 Update" />
   </component>
 </project>
