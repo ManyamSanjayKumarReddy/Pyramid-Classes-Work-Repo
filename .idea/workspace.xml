@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PyramidClasses.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_1/ProblemStatement_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_1/ProblemStatement_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_1/PyramidClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/ArcLength.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/Class Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/Driving.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/Operations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/RandomNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/Walking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/Welcome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/WelcomingUser.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QUqZCXuiGMAdgM4s03Tk42fbSF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Sanjay/IdeaProjects/ProductSpringWeb&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Sanjay\IdeaProjects\PyramidClasses\src\Day_1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="" />
+      <created>1685418562247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685418562247</updated>
+    </task>
+    <servers />
+  </component>
+</project>

@@ -1,0 +1,46 @@
+
+1. Java is Object Oriented Language (Keyword is : Bottom Up Approach)
+2. Class is a Blue Print or Template
+
+3. Define a Class ?
+    -- A Class is a Collection of Objects
+    -- A Class is Generic (Generic Means Common)
+4. List of Classes -- Musical Instruments,
+                      Color, Employee, Student, Exam, Writing Instruments,
+                      Reading Materials, Electronic Equipments, Cloth,
+                      Human Beings, Living Things.
+
+5. Real World consists of Classes and Objects.
+** 6. Object is an Instance of Class. (Instance Means COPY)
+** 7. Objects Consists of Properties and Methods.
+
+** 8. 1. Object = Properties + Methods
+      2. Object = Attributes + Functions
+
+9. For a Single Class Multiple Objects are Created.
+
+10.    Objects         Classes
+    1. Flute -         Percussion Instruments
+    2. Google Chrome - Browsers
+    3. K7 -            Antivirus
+    4. Assembler -     System Software
+    5. Private Cloud - Cloud
+    6. FTP -           Protocol
+    8. Humanoid -      AI System
+    9. Compiler -      System Software
+    10. Java Script -  Programming Language
+
+
+11. Structure of Java Program
+
+        (Optional) Packages      ---> Collection of Classes or Collection of Builtin Classes
+
+        (Compulsory) Class       ---> A Java Program is Created inside a class
+                                      & Every class should have a class name
+                                      First Letter of Class Name is Capital
+
+        (Compulsory) Main Method ---> Java PGM have an Main Method inside class
+
+
+
+
