@@ -1,0 +1,39 @@
+
+Multiple Choice Questions ::
+
+Questions :
+
+1. Every data in Java is identified by it's _________.
+2. JDK Stands for _______.
+3. The System code is converted into ___________ in JVM.
+4. ____________ is Collection of Predefined Classes in Java.
+5. Every Operand uses __________ in Arithmetic Operations.
+6. The Process of Reusing the Existing Code is enabled through ___________.
+7. Every Object in Java Contains _____________ and _________.
+8. The Process of identifying specific objects for a given class is called as  __________.
+9. The Process of Identifying related classes for a given object is called as _______.
+
+Answers :
+
+1. Data Type
+2. Java Development Kit
+3. Byte Code
+4. Packages
+5. Operator
+6. Polymorphism
+7. Methods & Properties
+8. Specialization
+9.
+
+** Variable -- A Named memory location that carries value.
+** A Variable can not be instantiated and objects can be instanced.
+** An Object doesn't exists without classes.
+
+---------- Basic Data Types ----------
+Integer ---> 4 bytes
+short ---> 2 bytes
+long ---> 8 bytes
+byte ---> 1 byte
+float ---> 4 bytes
+double ---> 8 bytes
+
