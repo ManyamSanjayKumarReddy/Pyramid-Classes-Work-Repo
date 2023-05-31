@@ -23,7 +23,8 @@ Answers :
 6. Polymorphism
 7. Methods & Properties
 8. Specialization
-9.
+9. Generalization
+
 
 ** Variable -- A Named memory location that carries value.
 ** A Variable can not be instantiated and objects can be instanced.
