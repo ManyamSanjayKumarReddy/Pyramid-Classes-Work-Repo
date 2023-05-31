@@ -3,14 +3,12 @@ package Day_3;
 import java.util.Scanner;
 
 /*
-
 Mr M of Ajarbaijan wants to automate his bank details with opening Account balance of 2,00,00
 a.	Deposit = Rs 1,00,000
 b.	Funds Transfer to S = Rs 25,000
 c.	Loan Taken from bank @repaid = Rs 10,000
 d.	Interest on the loan 5% for 6 months @ SI
 e.	Withdrawal = Rs 20,000
-
  */
 public class Secanrio_1 {
     public static void main(String[] args){
