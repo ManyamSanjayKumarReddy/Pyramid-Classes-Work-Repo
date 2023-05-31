@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="" />
+    <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/RandomNUM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenario_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Scenes/Scene_9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java Codes.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Java Codes.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day_3/Class Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_3/Class Notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Day_3/Secanrio_1.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685513819202</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Day 3 Updated">
+      <created>1685514665885</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685514665885</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

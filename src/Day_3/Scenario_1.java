@@ -10,7 +10,7 @@ c.	Loan Taken from bank @repaid = Rs 10,000
 d.	Interest on the loan 5% for 6 months @ SI
 e.	Withdrawal = Rs 20,000
  */
-public class Secanrio_1 {
+public class Scenario_1 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the Opening Balance :");
