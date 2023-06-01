@@ -1,0 +1,21 @@
+1. Wiki is a Automated Robot which is playing with Numbers.
+    It wants to identify Negative Numbers, +ve and Neutral. Write a Java Program for this Case.
+
+2. A Company An Invoice that contains :
+    ID of the Product
+    Name of the Product
+    Price of the Product
+    Quantity of the Product
+    Registered or NOT
+
+    Make a automated program in Java.
+
+3. Pre - Increment and Post - Increment Operator
+
+    Pre - Increment Operator :  A Pre-Increment Operator will first Increment the
+                                Value and then assign it to the variable.
+
+    Post - Increment Operator : A Post-Increment Operator will first assign the value to the
+                                variable and then increment the value.
+
+
