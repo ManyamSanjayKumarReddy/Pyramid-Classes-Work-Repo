@@ -19,3 +19,10 @@
                                 variable and then increment the value.
 
 
+** a++ is called as Unary operator.
+** A Unary operator operates on a single operand.
+** A Binary operator operates on two operands.
+** Another Important is Conditional Operator.
+** Signed Range is [-21474383648 to 21474383648]
+** Unsigned Range is [0 to 4294967295]
+
