@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/B.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/C.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_4/Question_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_4/Question_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_5/Arrays/ArrayAvg.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_5/Arrays/ArrayLength.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_5/Arrays/ArraysSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_5/Class Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_5/Strings/Creation_of_Strung.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_5/Strings/LengthofString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day_4/Class_Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_4/Class_Notes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day_4/Question_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_4/Question_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -157,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685599951695</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Day 5 Update">
+      <created>1685696110118</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1685696110118</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -165,6 +159,7 @@
     <MESSAGE value="Readme.md Added" />
     <MESSAGE value="Day 3 Updated" />
     <MESSAGE value="Day 4 Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 4 Update" />
+    <MESSAGE value="Day 5 Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 5 Update" />
   </component>
 </project>
