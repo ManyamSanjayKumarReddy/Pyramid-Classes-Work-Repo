@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Arrays/E.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/F.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arrays/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/B.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/D.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +153,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685696110118</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Day 5 Update">
+      <created>1685697484567</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1685697484567</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
