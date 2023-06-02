@@ -1,0 +1,110 @@
+
+Arrays --
+
+1. It is a Derived Datatype.
+2. We Can store multiple values in an array.
+3. Elements are Placed contiguously.
+4. It is a static allocation - Once the array size is fixed it can't be changed later.
+5. Real Time Examples of Array :
+    a. Array of Maruti Cars in a Showroom.
+    b. Array of 3rd year students in a Row.
+    c. Array of c++ Books in Row.
+6. Every array is identified by it's Name.
+7. Every Array has a unique name identified by it's datatype.
+    ex : int[5] a = {3,5,6,7,8};
+         int stands for Datatype
+         a stands for array Name
+         5 stands for Size of the Array
+8. 1 2 3 -- Linear set of Elements
+9. Each and Every element in the Array is identified by it's sub Script or Index Position.
+10. int a[3] = {4,5,6} -- a[0] = 4, a[1] = 5, a[2] = 6
+11. If array contains N elements; then the index range is from (0 to N-1)
+    Ex : N = 3; range of index is (0 to 2)
+12. The No.of Elements in an array should be equal to the size of array.
+    int a[2] = {8, 9 , 1} -- Wrong Approach
+    -- The Number of elements exceeded the array size
+    int a[3] = {8} -- Although the compiler accepts it; This is not the Correct Approach
+                      Because the memory is wasted.
+ Types of Arrays:
+----------------
+1. Integer array
+2. char array
+
+char array
+char array consists of set of characters
+another name is string
+
+char m={'a''e''o''u'}
+      m[0]='a' m[1]='e' m[2]='0' m[3]='u'
+
+**  \0 null value added to the end of every character array
+
+ Operations in an array
+ ----------------------
+ 1. Finding the length of the array
+ 2. Finding the maximum value in an array
+ 3. Finding the minimum value in an array
+ 4. Finding the duplicate elements in an array
+ 5. Sorting the array.
+
+ Difference b/w one dimensional array & Two dimensional array
+ One dimensional array -> single row of data
+ Two dimensional array -> rows and columns
+
+ 1. In an Exam scenario -> student roll/student name.
+ 2. Weather forecasting -> Temperature and location
+
+MCQ Questions in Array :
+
+1. How many builtin function used in this program?
+A. array.sort
+        .toString
+
+2. What is the default package use ?
+A. Java.util.arrays;
+
+3. What happen if array size is not specified?
+A. once the elements declared in array the java compiler automatically takes the size by default
+
+4. Why to.String function is used?
+A. This is a function used to calculate the elements in array that is numeric and
+    pass it as a string arguments generally this function is used to convert given
+     numbers to string.
+
+
+Sting Concepts :
+------
+String is a collection of characters every string is java uses string class operations
+in a string.
+
+String length -> Finding out the no.of characters in string
+   Ex: string s='hello' -> str.length => 5
+
+sting compare -> comparing one string with another
+    Ex: str="hai" string str2="hello"
+        str1=str2(not equal)
+
+string concatenation -> combining string with another
+     Ex: * String str="welcome" String str1="Welcome"
+           str==str1(no not equal)
+         * String str1='hai' String str2='hei'
+           str1==str2(NO)
+         * String str1="good" String str2="good"
+           str1==str2(Yes)
+
+
+String concatenation
+--------------------
+-> Combining the strings
+-> Real time -> First name+last name of a student
+
+
+** All strings in java are mutable(Changeable) - provided it is used along with string builder classes
+
+** Length is used to find the number of characters in a string
+
+
+Work
+-----
+* Develop the mini project for voting system using string functions *
+
