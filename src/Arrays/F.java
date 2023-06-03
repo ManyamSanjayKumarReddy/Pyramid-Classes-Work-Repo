@@ -13,15 +13,15 @@ public class F {
             arr[i] = sc.nextLong();
         }
 
+        int index = -1;
         for (int i = 0; i < N; i++){
             if (arr[i] == S){
-                System.out.println(i);
+                index = i;
+                break;
             }
-            else {
-                System.out.println(-1);
-            }
-            break;
         }
+
+        System.out.println(index);
 
     }
 }
