@@ -1,7 +1,7 @@
 package Day_6;
 
 /*
-        Inheritance
+        Inheritance Problems
  */
 public class animal {
 
@@ -19,7 +19,7 @@ public class animal {
 
     public static void main(String[] args){
 
-        Dog dogs = new Dog();
+        Dog dogs = new Dog(); // New is used to allocate address or memory dynamically
         dogs.eat();
         dogs.bark();
 

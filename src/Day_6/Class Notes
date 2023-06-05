@@ -1,0 +1,33 @@
+
+------ Constructor ------
+
+1. A Constructor is a Member function of a class -- Constructor is like taking properties
+2. A Constructor is used to initialization
+3. We use this keyword to denote a object in a constructor.
+4. There are 2 different types of constructors
+        a. Default constructor -- When system creates an Constructor
+        b. Constructor with Parameter
+        c. Constructor without Parameter
+
+
+5. Java Constructor vs Java Method
+    1a. Constructor is used to initialize the state of an object
+    1b. Method is used to expose the Behaviour of the Object
+
+    2a. Constructor must not have a return type
+    2b. Method should have a return type
+
+    3a. Constructor is invoked implicitly. (For an Object Constructor will be automatically generated)
+    3b. Method is invoked Explicitly. (User has to define)
+
+    4a. Java Compiler provides default constructor if it was not there.
+    4b. Java Compiler doesn't provide default.
+
+6. Encapsulation is the process of combining properties and methods inside a class
+   Example:  Powdered Medicine in side a capsules
+7. Abstraction is the process of hiding the internal working of a complex process
+   1. data Abstraction
+   2. Process abstraction
+
+
+Lab : Build a mini Project based on Oops for an examination Process.
