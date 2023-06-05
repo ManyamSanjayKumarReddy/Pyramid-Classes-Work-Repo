@@ -1,26 +1,29 @@
 package Strings;
 
 import java.util.Scanner;
-
+/*
+aaaBBB -- a3B3
+ */
 public class H {
     public static void main(String[] args){
-
         Scanner sc = new Scanner(System.in);
         String string = sc.nextLine();
-        String compressed_string;
 
         int count = 0;
-        for (int i = 0; i < string.length(); i++){
-            for (int j = i + 1; j < string.length(); j++){
-                if (string.charAt(i) == string.charAt(j)){
-
-
-                    count++;
-                    System.out.print(string.charAt(i));
-                    System.out.print(count);
+        int i;
+        for (i = 0; i < string.length() - 1; i++){
+                if (string.charAt(i) == string.charAt(i+1)){
+                    count = count + 1;
                 }
-            }
+
+                if (string.charAt(i) != string.charAt(i + 1)){
+                    System.out.print(string.charAt(i));
+                    System.out.print(count + 1);
+                    count = 0;
+                }
         }
 
+        System.out.print(string.charAt(i));
+        System.out.print(count + 1);
     }
 }
