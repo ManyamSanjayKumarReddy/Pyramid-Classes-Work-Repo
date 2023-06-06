@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Hash_set_and_Map/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hash_set_and_Map/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash_set_and_Map/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hash_set_and_Map/T.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hash_set_and_Map/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hash_set_and_Map/B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +56,7 @@
       <recent name="C:\Users\Sanjay\IdeaProjects\PyramidClasses\src\Day_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.A">
+  <component name="RunManager">
     <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hash_set_and_Map.A" />
       <module name="PyramidClasses" />
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_8.HashMap.b" />
+    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash_set_and_Map.T" />
       <module name="PyramidClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_8.HashMap.*" />
+          <option name="PATTERN" value="Hash_set_and_Map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.T" />
         <item itemvalue="Application.A" />
         <item itemvalue="Application.f" />
         <item itemvalue="Application.Day_8.HashMap.e" />
         <item itemvalue="Application.Day_8.HashMap.c" />
-        <item itemvalue="Application.b" />
       </list>
     </recent_temporary>
   </component>
@@ -308,7 +309,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686033960688</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Day 8 Update">
+      <created>1686039806051</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1686039806051</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

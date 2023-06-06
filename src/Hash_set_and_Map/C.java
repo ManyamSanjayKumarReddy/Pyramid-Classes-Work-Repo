@@ -1,18 +1,17 @@
 package Hash_set_and_Map;
 
-import java.util.HashSet;
 import java.util.Scanner;
 
-public class B {
+public class C {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int T = sc.nextInt();
-        String string;
-        HashSet<Character> set = new HashSet<Character>();
+        String str1;
+        String str2;
 
-        string = sc.nextLine();
-
-
-
+        for (int i=0; i<T; i++){
+            str1 = sc.nextLine();
+            str2 = sc.nextLine();
+        }
     }
 }
