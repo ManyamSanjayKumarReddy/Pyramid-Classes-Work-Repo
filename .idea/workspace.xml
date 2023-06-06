@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Arrays/Rotation_Sum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_8/Hashset/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_8/Hashset/b.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_8/Hashset/c.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_8/Hashset/d.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day_8/Hashset/e.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/Y.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_8/HashMap/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_8/HashMap/b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_8/HashMap/c.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_8/HashMap/d.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_8/HashMap/e.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strings/O.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings/O.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +58,13 @@
       <recent name="C:\Users\Sanjay\IdeaProjects\PyramidClasses\src\Day_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.e">
-    <configuration name="c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_8.Hashset.c" />
+  <component name="RunManager" selected="Application.f">
+    <configuration name="Day_8.HashMap.c" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_8.HashMap.c" />
       <module name="PyramidClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_8.Hashset.*" />
+          <option name="PATTERN" value="Day_8.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_8.Hashset.d" />
+    <configuration name="Day_8.HashMap.e" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_8.HashMap.e" />
       <module name="PyramidClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_8.Hashset.*" />
+          <option name="PATTERN" value="Day_8.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +85,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="e" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_8.Hashset.e" />
+    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_8.HashMap.a" />
       <module name="PyramidClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day_8.Hashset.*" />
+          <option name="PATTERN" value="Day_8.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="b" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_8.HashMap.b" />
+      <module name="PyramidClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_8.HashMap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="f" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_8.HashMap.f" />
+      <module name="PyramidClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Day_8.HashMap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,9 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.e" />
-        <item itemvalue="Application.d" />
-        <item itemvalue="Application.c" />
+        <item itemvalue="Application.f" />
+        <item itemvalue="Application.Day_8.HashMap.e" />
+        <item itemvalue="Application.Day_8.HashMap.c" />
+        <item itemvalue="Application.b" />
+        <item itemvalue="Application.a" />
       </list>
     </recent_temporary>
   </component>
@@ -265,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685962059011</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Day 8 Update">
+      <created>1686027985206</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1686027985206</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -276,6 +308,7 @@
     <MESSAGE value="Day 5 Update" />
     <MESSAGE value="Day 6 Update" />
     <MESSAGE value="Day 7 Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 7 Update" />
+    <MESSAGE value="Day 8 Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 8 Update" />
   </component>
 </project>
