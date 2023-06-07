@@ -89,6 +89,7 @@ public class Queue_1 {
         // print Queue elements
         q.queueDisplay();
 
+
         // inserting elements in the queue
         q.queueEnqueue(10);
         q.queueEnqueue(30);
