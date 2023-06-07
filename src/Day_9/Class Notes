@@ -49,3 +49,33 @@ Creating a stack --> Stack stk = new Stack(); or Stack<type> stk = new Stack<>()
 ** One end is used to insert data -- Enqueue
 ** Other end is used to delete data -- Dequeue (Because queue is open at both it's ends)
 
+** Back < Front Means --> Empty Queue
+
+--> Types of Queues :
+    1. Simple Queue
+    2. Circular Queue
+    3. Priority Queue
+    4. Double Ended Queue
+
+------ Circular Queue :
+            --> Each Node is connected to the next node in the sequence
+            --> But the last node's pointer is also connected to the first node's address
+            --> Hence, the last node and the first node also gets connected making a circular link overall.
+
+------ Priority Queue :
+            --> It Makes data retrieval possible only through a pre-determined priority number assigned to the data items.
+            --> While the deletion is performed in accordance to priority number (the data item with highest priority is removed first)
+                , insertion is performed only in the order.
+------ Double Ended Queue - Dequeue
+            --> It allows the insert and delete operations from both the ends ( Front and rear) of the queue.
+            --> Queues are an important concept of the datastructures and understanding the types are more most important
+
+Methods :
+
+1. add(E e)
+2. peek()
+3. element() --- same as Peek but without throwing any Exception
+4. remove()
+5. poll() -- Removes the head and returns null if it was empty
+6. offer() -- insert a new element without violating capacity restrictions
+7. size
