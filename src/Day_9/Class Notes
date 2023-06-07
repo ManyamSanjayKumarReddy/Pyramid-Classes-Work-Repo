@@ -1,0 +1,41 @@
+Stack -- LIFO
+-- Last item to be inserted into a stack is the first one to be deleted from it
+-- Both insertion and removal are allowed at one end.
+-- Push()
+-- pop()
+-- peek() --- Top of the stack
+-- Overflow state -- when it is completely full
+-- Underflow state -- it it is completely empty
+
+Top Value
+
+** -1 Means --> Stack is empty
+** 0 Means --> Only One Element
+** N-1 --> Stack is Full
+** N --> Stack is Overflow
+
+Hierarchy of the Stack Class :
+        Stack --> Vector --> List --> Collection --> Iterable
+
+Stack Constructor --> public stack()
+** Default Constructor that creates an empty stack
+
+Creating a stack --> Stack stk = new Stack(); or Stack<type> stk = new Stack<>();
+
+** Methods of Class Stack
+
+1. Empty() --> checks it is empty or not  [boolean]
+2. Push(E item) --> Pushes an element into the stack  [Element]
+3. pop() --> removes the top of the element  [Element]
+4. peek() --> displaying the top element without removing it  [Element]
+5. search(Object 0) --> The Method searches object and returns the position of the object  [int]
+                        Top most element is considered as 1st Position and reads from top tp bottom
+6. Size of the Stack can be Found using --> stack.size()
+
+** Iterate Elements
+
+--> Fetching the elements of the stack. We have 3 different Methods
+        1. iterator()
+        2. forEach()
+        3. listIterator()
+
