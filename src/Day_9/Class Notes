@@ -39,3 +39,13 @@ Creating a stack --> Stack stk = new Stack(); or Stack<type> stk = new Stack<>()
         2. forEach()
         3. listIterator()
 
+
+** Queue :
+
+1. Element is inserted from REAR and Deleted from FRONT.
+2. Front Points to the Beginning and Rear Points to the end.
+3. Queue follows the FIFO (First in First Out)
+
+** One end is used to insert data -- Enqueue
+** Other end is used to delete data -- Dequeue (Because queue is open at both it's ends)
+
