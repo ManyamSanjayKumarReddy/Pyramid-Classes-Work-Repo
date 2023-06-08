@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Hash_set_and_Map/F.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Queues/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Queues/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Queues/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack_Queues/F.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Day_9/Queue_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Day_9/Queue_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hash_set_and_Map/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hash_set_and_Map/C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Hash_set_and_Map/B.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hash_set_and_Map/B.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +59,9 @@
       <recent name="C:\Users\Sanjay\IdeaProjects\PyramidClasses\src\Day_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C">
-    <configuration name="A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hash_set_and_Map.A" />
+  <component name="RunManager">
+    <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hash_set_and_Map.B" />
       <module name="PyramidClasses" />
       <extension name="coverage">
         <pattern>
@@ -108,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="T" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hash_set_and_Map.T" />
+    <configuration name="Stack_Queues.A" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stack_Queues.A" />
       <module name="PyramidClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hash_set_and_Map.*" />
+          <option name="PATTERN" value="Stack_Queues.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Stack_Queues.A" />
+        <item itemvalue="Application.B" />
         <item itemvalue="Application.C" />
         <item itemvalue="Application.Queue_1" />
         <item itemvalue="Application.O" />
-        <item itemvalue="Application.A" />
-        <item itemvalue="Application.T" />
       </list>
     </recent_temporary>
   </component>
@@ -343,7 +347,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686119514723</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Day 9 Update">
+      <created>1686128043952</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1686128043952</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
