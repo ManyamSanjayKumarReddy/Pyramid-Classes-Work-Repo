@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cbad3c11-3c06-4ef8-bf22-7a4911560fc8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Accenture_1/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture_1/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Accenture_1/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_10/Bubble_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_10/Class Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Linked_List/Assigment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stack_Queues/C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stack_Queues/C.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +62,20 @@
       <recent name="C:\Users\Sanjay\IdeaProjects\PyramidClasses\src\Day_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stack_Queues.C">
+  <component name="RunManager">
+    <configuration name="Assigment" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Linked_List.Assigment" />
+      <module name="PyramidClasses" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Linked_List.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hash_set_and_Map.B" />
       <module name="PyramidClasses" />
@@ -71,25 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hash_set_and_Map.C" />
+    <configuration name="Bubble_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day_10.Bubble_Sort" />
       <module name="PyramidClasses" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Hash_set_and_Map.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Queue_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day_9.Queue_1" />
-      <module name="PyramidClasses" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day_9.*" />
+          <option name="PATTERN" value="Day_10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +130,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bubble_Sort" />
+        <item itemvalue="Application.Assigment" />
         <item itemvalue="Application.Stack_Queues.C" />
         <item itemvalue="Application.Stack_Queues.A" />
         <item itemvalue="Application.B" />
-        <item itemvalue="Application.C" />
-        <item itemvalue="Application.Queue_1" />
       </list>
     </recent_temporary>
   </component>
@@ -359,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686215223233</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Day 10 Update">
+      <created>1686243659914</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1686243659914</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
